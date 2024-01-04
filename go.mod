@@ -1,4 +1,4 @@
-module terraform-provider-hashicups
+module terraform-provider-cisco-sna
 
 go 1.20
 
